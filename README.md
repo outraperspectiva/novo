@@ -1,1 +1,1 @@
-# novato
+# novatos no git hub
